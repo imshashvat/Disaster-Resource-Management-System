@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environments
+env/
+venv/
+.env/
+.venv/
+
+# Temp / Test data
+disaster_relief_system/data_test/
+disaster_relief_system/demo_script.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PDF and DOCX (don't push source docs, keep code only)
+*.pdf
+*.docx
+
+# Extracted text files
+pdf_content.txt
+impl_plan.txt
